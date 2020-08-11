@@ -1,0 +1,20 @@
+body{
+background:#00ff00;
+color black;
+font-size:20px;
+width:85%;
+text-align:center-left;
+padding:10px;
+font-family:arial;
+margin:auto;
+}
+
+#guitar{
+text-align:justify;
+}
+#color{
+color:brown;
+}
+#color1{
+color:blue;
+}
